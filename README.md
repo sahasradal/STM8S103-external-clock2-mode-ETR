@@ -1,0 +1,1 @@
+# STM8S103-external-clock2-mode-ETR
